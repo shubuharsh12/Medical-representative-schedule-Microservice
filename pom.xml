@@ -59,6 +59,6 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<fileName>Medical-representative-schedule-service</fileName>
+		<finalName>Medical-representative-schedule-service</finalName>
 	</build>
 </project>
